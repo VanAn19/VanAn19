@@ -14,6 +14,10 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Nodejs-282C34?logo=Node.JS&logoColor=47A248" alt="Vue.js logo" title="Vue.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=FFCA28" alt="Java logo" title="Java" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
@@ -25,8 +29,6 @@
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
 
 <br>
@@ -41,11 +43,15 @@
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=VanAn19&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
-<br>
+
+<!-- <br>
+
 <h2 align="center">👽 Where to find me 👽</h2>
-<br>
+
+<br> -->
+
 <!-- https://icons8.com -->
-<div align="center">
+<!-- <div align="center">
 </div>
 
 <br>
@@ -55,5 +61,4 @@
 <br>
 <a href="#" target="_blank">
   <img src="svg/vanann-quotes.svg" width="846" height="150" alt="trungquandev-official" />
-</a>
-
+</a> -->
